@@ -1,2 +1,2 @@
-# Covid-19-dashboard
-A interactive dashboard
+# voila-covid-19-dashboard
+Voila Covid-19 Dashboard
